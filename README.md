@@ -1,6 +1,6 @@
 # ARSELA Developers
 
-![](client/public/homepage.png)
+![](client/public/homepage.jpg)
 
 
 
