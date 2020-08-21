@@ -1,7 +1,6 @@
 # ARSELA Developers
 
-> Small social network app built with the MERN stack. This is part of "MERN Stack Front To Back" Udemy course
-
+>  MERN stack. 
 ## Quick Start
 
 ```bash
